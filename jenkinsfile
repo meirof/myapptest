@@ -1,6 +1,6 @@
 pipeline {
     agent {
-        label "master"
+        label "illin5662"
     }
     tools {
         maven "Maven"
